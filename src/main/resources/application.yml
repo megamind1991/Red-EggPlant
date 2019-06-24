@@ -1,0 +1,8 @@
+redis:
+  native:
+      host: 127.0.0.1
+#      port: 6379
+      password:
+      maxTotal: 400
+      maxIdle: 50
+      minIdle: 10
